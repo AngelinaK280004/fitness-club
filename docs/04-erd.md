@@ -44,9 +44,4 @@ erDiagram
         string type "booking | cancellation"
         boolean is_read
     }
-        int id PK
-        int client_id FK
-        string message
-        string type "booking | cancellation"
-        boolean is_read
-    }
+       
